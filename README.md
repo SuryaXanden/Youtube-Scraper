@@ -1,4 +1,4 @@
 # Youtube results scraper
 
 <li>A python program written to scrape Youtube.com search results using BeautifulSoup and Requests modules.</li>
-<li>Running the YoutubeScraper() with a string as a parameter that will be the search term yields 20 results.</li>
+<li>Running the YoutubeScraper() with the search term as a string yields the first 20 results.</li>
